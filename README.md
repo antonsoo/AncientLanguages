@@ -279,6 +279,8 @@ curl -X POST "http://127.0.0.1:8000/reader/analyze?include={\"lsj\":true,\"smyth
   -d '{"q":"Μῆνιν ἄειδε"}'
 ```
 
+See [docs/DEMO.md](docs/DEMO.md) for a one-command demo runbook.
+
 ### BYOK (dev only)
 
 - Tap the key icon in the app bar to open the BYOK sheet (debug builds only, persisted with `flutter_secure_storage`).
